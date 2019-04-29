@@ -1,0 +1,1 @@
+# mirror-kube-proxy-amd64
