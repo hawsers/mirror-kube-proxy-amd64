@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-proxy-amd64:v1.16.0-rc.1
+FROM k8s.gcr.io/kube-proxy-amd64:v1.6.10-beta.0
